@@ -1,0 +1,801 @@
+ 
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "125",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "ATN BANGLA",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "187",
+					
+					                    "name": "ATN BANGLA",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/atnbangla/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				},
+				
+				                {
+					
+					                    "stream_id": "188",
+					
+					                    "name": " ATN BANGLA UK",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/atnbanglauk/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/40371_AtnBangla.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "127",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "ATN NEWS",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "189",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/atnnews/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/31983_AtnNewsNew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "343",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "ZEE BANGLA",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "431",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/zeebangla/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/45964_79100_zeebangla2017.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "385",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "CHANNEL I",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "3224",
+					
+					                    "name": "CHANNEL I",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/channeli/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/29322_55744_Channelinew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "386",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "BTV WORLD",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "477",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/btvworld/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/33843_25710_BTVnew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "387",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "BTV",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "478",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/btv/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/28886_27565_btv.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "388",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "RTV",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "479",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/rtvbangla/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/85491_97271_rtvnew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "389",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "SA TV",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "2199",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/satv/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/93220_47073_SATVlogonew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "390",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Maasaranga",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "481",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/maasaranga/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/83193_83810_MaasrangaNew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "391",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Boishakhi",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "482",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/boishakhi/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/24163_38837_Boishakhinew (1).jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "392",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Bangla Vision",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "483",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/banglavision/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/3797_65630_BanglaVisionNew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "393",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Bijoy",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "484",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/bijoy/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/4656_92281_BijoyNew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "394",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Desh Tv",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "485",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/deshtv/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/15488_83577_DeshTvNew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "395",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Colors Bangla",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "486",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/colorsbangla/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/54647_39272_ColorsBanglaNew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "396",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Independent",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "487",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/independent/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/67903_78068_Independentnew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "397",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "NTV",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "498",
+					
+					                    "name": "NTV",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/ntv/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				},
+				
+				                {
+					
+					                    "stream_id": "499",
+					
+					                    "name": "NTV UK",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/ntvuk/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/25189_99992_NTVnew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "398",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Mohana",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "497",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/mohana/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/89559_84171_Mohananew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "399",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "My Tv",
+			
+			            "stream_list": [
+				
+				                {
+					
+					                    "stream_id": "496",
+					
+					                    "name": "LINK 1",
+					
+					                    "stream_url": "http://185.149.90.23:7071/bangla2020/mytv/playlist.m3u8",
+					
+					                    "token": "3",
+					
+					                    "agent": "",
+					
+					                    "referer": ""
+					                
+				}
+				            
+			],
+			
+			            "channel_thumbnail": "http://swiftstreamz.com/SwiftPanel/images/97308_31094_mytvnew.jpg",
+			
+			            "cid": "3",
+			
+			            "category_name": "BANGLADESH TV",
+			
+			            "category_type": "live",
+			
+			            "category_image": "http://swiftstreamz.com/SwiftPanel/images/68820_bangladesh.png",
+			
+			            "category_image_thumb": "http://swiftstreamz.com/SwiftPanel/images/thumbs/68820_bangladesh.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "400",
+			
+			            "cat_id": "3",
+			
+			            "channel_
